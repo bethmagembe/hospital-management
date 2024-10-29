@@ -14,14 +14,14 @@ The Hospital Management System (HMS) is a comprehensive SQL-based solution desig
 - **Admin Queries**: Monitor user activities and system performance.
 
 ## Project Structure
-schema.sql # Database schema definition
-sample_data.sql # Sample data for testing
-patient_management.sql # Queries related to patient management
-appointment_scheduling.sql # Queries for scheduling appointments
-doctor_management.sql # Queries for managing doctors
-billing.sql # Queries for billing management
-reporting.sql # Reporting queries
-admin_queries.sql # Administrative queries
+- schema.sql # Database schema definition
+- sample_data.sql # Sample data for testing
+- patient_management.sql # Queries related to patient management
+- appointment_scheduling.sql # Queries for scheduling appointments
+- doctor_management.sql # Queries for managing doctors
+- billing.sql # Queries for billing management
+- reporting.sql # Reporting queries
+- admin_queries.sql # Administrative queries
 
-Contributing
+## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
